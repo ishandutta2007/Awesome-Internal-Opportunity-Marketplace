@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Internal-Opportunity-Marketplace/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Internal-Opportunity-Marketplace?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Internal-Opportunity-Marketplace/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Internal-Opportunity-Marketplace?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Internal-Opportunity-Marketplace/network"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Internal-Opportunity-Marketplace?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -68,60 +68,60 @@ The table below curates the premier enterprise Internal Opportunity Marketplace 
 
 Open-source tooling provides self-hosted, data-sovereign, and customizable solutions for engineering teams building bespoke internal talent marketplaces, skills matrices, and opportunity matching engines.
 
-Repositories are listed in **descending order by GitHub star count**.
+Repositories are listed in **descending order by GitHub Stars_Count**.
 
-- **[frappe/hrms](https://github.com/frappe/hrms)** [![GitHub stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)  
+- **[frappe/hrms](https://github.com/frappe/hrms)** [![GitHub_Stars](https://img.shields.io/github/stars/frappe/hrms?style=social&color=white)](https://github.com/frappe/hrms/stargazers)  
   *Open-source HR and payroll platform featuring recruitment, employee skill assessments, internal job postings, performance appraisals, and full employee lifecycle tracking.* Built on Python/Frappe framework. (GPL-3.0)
 
-- **[algora-io/algora](https://github.com/algora-io/algora)** [![GitHub stars](https://img.shields.io/github/stars/algora-io/algora?style=social&color=white)](https://github.com/algora-io/algora/stargazers)  
+- **[algora-io/algora](https://github.com/algora-io/algora)** [![GitHub_Stars](https://img.shields.io/github/stars/algora-io/algora?style=social&color=white)](https://github.com/algora-io/algora/stargazers)  
   *Open-source bounty and developer opportunity marketplace connecting organizations with engineering talent via GitHub issues, automated payouts, and skill verification.* (AGPL-3.0)
 
-- **[BohdanOrlov/ios-skills-matrix](https://github.com/BohdanOrlov/ios-skills-matrix)** [![GitHub stars](https://img.shields.io/github/stars/BohdanOrlov/ios-skills-matrix?style=social&color=white)](https://github.com/BohdanOrlov/ios-skills-matrix/stargazers)  
+- **[BohdanOrlov/ios-skills-matrix](https://github.com/BohdanOrlov/ios-skills-matrix)** [![GitHub_Stars](https://img.shields.io/github/stars/BohdanOrlov/ios-skills-matrix?style=social&color=white)](https://github.com/BohdanOrlov/ios-skills-matrix/stargazers)  
   *Comprehensive engineering competency and skills matrix framework for structuring career ladders, performance reviews, and technical capability benchmarking.* (MIT)
 
-- **[Semalab/developer-skills-matrix](https://github.com/Semalab/developer-skills-matrix)** [![GitHub stars](https://img.shields.io/github/stars/Semalab/developer-skills-matrix?style=social&color=white)](https://github.com/Semalab/developer-skills-matrix/stargazers)  
+- **[Semalab/developer-skills-matrix](https://github.com/Semalab/developer-skills-matrix)** [![GitHub_Stars](https://img.shields.io/github/stars/Semalab/developer-skills-matrix?style=social&color=white)](https://github.com/Semalab/developer-skills-matrix/stargazers)  
   *Developer skills evaluation rubric and competency matrix for engineering career progression, mentorship pairing, and internal capability discovery.* (MIT)
 
-- **[hltbra/programmer-competency-checklist](https://github.com/hltbra/programmer-competency-checklist)** [![GitHub stars](https://img.shields.io/github/stars/hltbra/programmer-competency-checklist?style=social&color=white)](https://github.com/hltbra/programmer-competency-checklist/stargazers)  
+- **[hltbra/programmer-competency-checklist](https://github.com/hltbra/programmer-competency-checklist)** [![GitHub_Stars](https://img.shields.io/github/stars/hltbra/programmer-competency-checklist?style=social&color=white)](https://github.com/hltbra/programmer-competency-checklist/stargazers)  
   *Interactive checklist and matrix for benchmarking technical competencies, engineering career growth, and skill gap analysis across software development disciplines.* (MIT)
 
-- **[angelabassa/data-science-competency-matrix](https://github.com/angelabassa/data-science-competency-matrix)** [![GitHub stars](https://img.shields.io/github/stars/angelabassa/data-science-competency-matrix?style=social&color=white)](https://github.com/angelabassa/data-science-competency-matrix/stargazers)  
+- **[angelabassa/data-science-competency-matrix](https://github.com/angelabassa/data-science-competency-matrix)** [![GitHub_Stars](https://img.shields.io/github/stars/angelabassa/data-science-competency-matrix?style=social&color=white)](https://github.com/angelabassa/data-science-competency-matrix/stargazers)  
   *Structured competency matrix and rubric for data science and analytics professionals, mapping seniority tiers and skill expectations.* (CC-BY-4.0)
 
-- **[HRPulsar/hrpulsar](https://github.com/HRPulsar/hrpulsar)** [![GitHub stars](https://img.shields.io/github/stars/HRPulsar/hrpulsar?style=social&color=white)](https://github.com/HRPulsar/hrpulsar/stargazers)  
+- **[HRPulsar/hrpulsar](https://github.com/HRPulsar/hrpulsar)** [![GitHub_Stars](https://img.shields.io/github/stars/HRPulsar/hrpulsar?style=social&color=white)](https://github.com/HRPulsar/hrpulsar/stargazers)  
   *Competency-first open-source talent management platform featuring competency graphs, internal talent marketplace, 360-degree feedback, development plans, and AI workforce tracking.* Built with FastAPI and Next.js. (AGPL-3.0)
 
-- **[workcontrolgit/TalentManagement](https://github.com/workcontrolgit/TalentManagement)** [![GitHub stars](https://img.shields.io/github/stars/workcontrolgit/TalentManagement?style=social&color=white)](https://github.com/workcontrolgit/TalentManagement/stargazers)  
+- **[workcontrolgit/TalentManagement](https://github.com/workcontrolgit/TalentManagement)** [![GitHub_Stars](https://img.shields.io/github/stars/workcontrolgit/TalentManagement?style=social&color=white)](https://github.com/workcontrolgit/TalentManagement/stargazers)  
   *Clean architecture enterprise talent management REST API solution built with .NET and Entity Framework for tracking employee capabilities, positions, and promotions.* (MIT)
 
-- **[AounYoussef/JobCrafting](https://github.com/AounYoussef/JobCrafting)** [![GitHub stars](https://img.shields.io/github/stars/AounYoussef/JobCrafting?style=social&color=white)](https://github.com/AounYoussef/JobCrafting/stargazers)  
+- **[AounYoussef/JobCrafting](https://github.com/AounYoussef/JobCrafting)** [![GitHub_Stars](https://img.shields.io/github/stars/AounYoussef/JobCrafting?style=social&color=white)](https://github.com/AounYoussef/JobCrafting/stargazers)  
   *AI-powered job crafting and career matchmaking tool designed to align employee skills, personal aspirations, and organizational opportunities.* (MIT)
 
-- **[francescopace/peoplemesh](https://github.com/francescopace/peoplemesh)** [![GitHub stars](https://img.shields.io/github/stars/francescopace/peoplemesh?style=social&color=white)](https://github.com/francescopace/peoplemesh/stargazers)  
+- **[francescopace/peoplemesh](https://github.com/francescopace/peoplemesh)** [![GitHub_Stars](https://img.shields.io/github/stars/francescopace/peoplemesh?style=social&color=white)](https://github.com/francescopace/peoplemesh/stargazers)  
   *AI matching layer for modern organizations, featured in Red Hat AI Quickstarts. Connects employees with internal projects, gigs, and communities using graph-like embedding vectors and GDPR-compliant audit logs.* (Apache-2.0)
 
-- **[paulcutting/skills-matrix](https://github.com/paulcutting/skills-matrix)** [![GitHub stars](https://img.shields.io/github/stars/paulcutting/skills-matrix?style=social&color=white)](https://github.com/paulcutting/skills-matrix/stargazers)  
+- **[paulcutting/skills-matrix](https://github.com/paulcutting/skills-matrix)** [![GitHub_Stars](https://img.shields.io/github/stars/paulcutting/skills-matrix?style=social&color=white)](https://github.com/paulcutting/skills-matrix/stargazers)  
   *React application for visualizing, tracking, and managing team skill levels, talent distribution, and internal growth opportunities.* (MIT)
 
-- **[magantoine/JobSkape](https://github.com/magantoine/JobSkape)** [![GitHub stars](https://img.shields.io/github/stars/magantoine/JobSkape)](https://github.com/magantoine/JobSkape/stargazers)  
+- **[magantoine/JobSkape](https://github.com/magantoine/JobSkape)** [![GitHub_Stars](https://img.shields.io/github/stars/magantoine/JobSkape)](https://github.com/magantoine/JobSkape/stargazers)  
   *Framework for generating synthetic job postings and benchmarking NLP-based skill matching models for talent discovery systems.* (MIT)
 
-- **[ArjunFrancis/OpenHR](https://github.com/ArjunFrancis/OpenHR)** [![GitHub stars](https://img.shields.io/github/stars/ArjunFrancis/OpenHR?style=social&color=white)](https://github.com/ArjunFrancis/OpenHR/stargazers)  
+- **[ArjunFrancis/OpenHR](https://github.com/ArjunFrancis/OpenHR)** [![GitHub_Stars](https://img.shields.io/github/stars/ArjunFrancis/OpenHR?style=social&color=white)](https://github.com/ArjunFrancis/OpenHR/stargazers)  
   *Lightweight open-source HR and talent matching platform featuring skill-tag-based match algorithms for founders, technical teams, and internal placements.* (MIT)
 
-- **[upes-open/OSoC-25-Giglance](https://github.com/upes-open/OSoC-25-Giglance)** [![GitHub stars](https://img.shields.io/github/stars/upes-open/OSoC-25-Giglance?style=social&color=white)](https://github.com/upes-open/OSoC-25-Giglance/stargazers)  
+- **[upes-open/OSoC-25-Giglance](https://github.com/upes-open/OSoC-25-Giglance)** [![GitHub_Stars](https://img.shields.io/github/stars/upes-open/OSoC-25-Giglance?style=social&color=white)](https://github.com/upes-open/OSoC-25-Giglance/stargazers)  
   *Open-source gig work and freelance opportunity platform with intelligent candidate recommendations and project management workflows.* (MIT)
 
-- **[ArjunFrancis/openhr-founder-ai](https://github.com/ArjunFrancis/openhr-founder-ai)** [![GitHub stars](https://img.shields.io/github/stars/ArjunFrancis/openhr-founder-ai?style=social&color=white)](https://github.com/ArjunFrancis/openhr-founder-ai/stargazers)  
+- **[ArjunFrancis/openhr-founder-ai](https://github.com/ArjunFrancis/openhr-founder-ai)** [![GitHub_Stars](https://img.shields.io/github/stars/ArjunFrancis/openhr-founder-ai?style=social&color=white)](https://github.com/ArjunFrancis/openhr-founder-ai/stargazers)  
   *AI-driven talent matching engine utilizing Sentence Transformers, spaCy Named Entity Recognition (NER), Supabase PostgreSQL, and LangGraph multi-agent workflows.* (MIT)
 
-- **[harshspotted/JTP_PROJECT](https://github.com/harshspotted/JTP_PROJECT)** [![GitHub stars](https://img.shields.io/github/stars/harshspotted/JTP_PROJECT?style=social&color=white)](https://github.com/harshspotted/JTP_PROJECT/stargazers)  
+- **[harshspotted/JTP_PROJECT](https://github.com/harshspotted/JTP_PROJECT)** [![GitHub_Stars](https://img.shields.io/github/stars/harshspotted/JTP_PROJECT?style=social&color=white)](https://github.com/harshspotted/JTP_PROJECT/stargazers)  
   *AI-powered employee skill and project recommendation system using Qdrant vector database embeddings and local Ollama LLMs for semantic role matching.* (MIT)
 
-- **[harsh09jt/skillsync](https://github.com/harsh09jt/skillsync)** [![GitHub stars](https://img.shields.io/github/stars/harsh09jt/skillsync?style=social&color=white)](https://github.com/harsh09jt/skillsync/stargazers)  
+- **[harsh09jt/skillsync](https://github.com/harsh09jt/skillsync)** [![GitHub_Stars](https://img.shields.io/github/stars/harsh09jt/skillsync?style=social&color=white)](https://github.com/harsh09jt/skillsync/stargazers)  
   *Workforce skill intelligence platform utilizing multi-agent AI architecture, Spring Boot, MySQL, and Gemini AI for automated skill gap analysis and personalized learning path generation.* (MIT)
 
-- **[hasanbaroki/agentic-ai-career-intelligence](https://github.com/hasanbaroki/agentic-ai-career-intelligence)** [![GitHub stars](https://img.shields.io/github/stars/hasanbaroki/agentic-ai-career-intelligence?style=social&color=white)](https://github.com/hasanbaroki/agentic-ai-career-intelligence/stargazers)  
+- **[hasanbaroki/agentic-ai-career-intelligence](https://github.com/hasanbaroki/agentic-ai-career-intelligence)** [![GitHub_Stars](https://img.shields.io/github/stars/hasanbaroki/agentic-ai-career-intelligence?style=social&color=white)](https://github.com/hasanbaroki/agentic-ai-career-intelligence/stargazers)  
   *Agentic career intelligence system built with LangGraph ReAct agents for scoring internal resumes against opportunity descriptions and drafting personalized upskilling plans.* (MIT)
 
 ---
@@ -179,7 +179,7 @@ Contributions to this ecosystem are warmly welcomed! To contribute:
 2. **Add or update** entries in [README.md](README.md) following the existing tabular or bulleted format.
 3. Ensure all links point to authoritative domains and GitHub repositories.
 4. If submitting a SaaS product, include exact starting pricing tiers, free tier/trial limits, and verified company valuation/revenue benchmarks.
-5. If submitting an open-source project, verify the license, active repository link, and social star badge format.
+5. If submitting an open-source project, verify the license, active repository link, and social Stars_Badge format.
 6. Open a **Pull Request** with a concise description of changes.
 
 For broader collections of curated software lists, check out [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
